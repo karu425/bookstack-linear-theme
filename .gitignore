@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+dist/
+.env
+.local/
+credentials*
+*.pem
+*.key
